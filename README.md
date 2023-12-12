@@ -3,6 +3,7 @@
 1) npm install
 2) npm start | yarn start
 -------------------------------
+Также можно перейти по ссылке: https://planet-pizza.vercel.app/
  Полный стек:
 ReactJS 
 TypeScript
